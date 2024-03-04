@@ -12,4 +12,12 @@ Contents:
 		<li>To implement contextualised weak supervision, we used the code in <a href="https://github.com/dheeraj7596/ConWea">ConWea</a>. A guide for implementation can be found in the repo.  
 		</ul>
 	<li> <b>Chapter 7</b>: Inhomogeneous Ripley's K-function 
+		<ul>
+		<li>The directory contains 4 files: 
+		<ul>
+			<li> A <code>requirements.txt</code> file
+			<li> <code>simulate_controls.py</code> the scripts runs a thinning algorithm to simulate companies with the same distribution as tangible and intangible ones
+			<li><code>kinhom_estimation_tutorial</code>
+		</ul>	
+		</ul>
   </ul>
