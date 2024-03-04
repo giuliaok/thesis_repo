@@ -7,5 +7,8 @@ Contents:
 	<li> <b>Chapter 3 </b>: Dataset creation from Common Crawl 
 	<li> <b>Chapter 5</b>: Website scraping and Tomotopy modeling 
 	<li> <b>Chapter 6</b>: Website Weakly Supervised Classification
+		<br>
+		This only contains
+		</br>
 	<li> <b>Chapter 7</b>: Inhomogeneous Ripley's K-function 
   </ul>
