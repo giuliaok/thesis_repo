@@ -1,0 +1,78 @@
+{
+  "software.consultancy": [
+    "software",
+    "consultancy",
+    "advice",
+    "design", 
+    "implementation"
+  ],
+  "software.support.services": [
+    "software",
+    "support",
+    "incident",
+    "troubleshooting", 
+    "install", 
+    "maintenance"
+  ],
+  "software.development.services": [
+    "software",
+    "app",
+    "development",
+    "building", 
+    "solutions"
+  ],
+  "disaster.recovery.services": [
+    "disaster",
+    "recovery",
+    "incident",
+    "risk", 
+    "critical", 
+    "backup"
+  ],
+  "web.page.design": [
+    "web",
+    "design",
+    "develop",
+    "online", 
+    "content"
+  ],
+  "video.audio.streaming": [
+    "music",
+    "video",
+    "audio",
+    "podcast", 
+    "web", 
+    "songs"
+  ],
+  "data.entry.services": [
+    "data",
+    "entry",
+    "accuracy",
+    "digital", 
+    "documents", 
+    "manual"
+  ],
+  "data.preparation.services": [
+    "data",
+    "cleaning", 
+    "transforming", 
+    "formatting", 
+    "raw"
+  ],
+  "data.processing.activities": [
+    "data",
+    "processing",
+    "intelligence", 
+    "analysis", 
+    "machine", 
+    "learning"
+  ],
+  "noise": [
+    "blocked", 
+    "court", 
+    "rent", 
+    "lorem", 
+    "ipsum", 
+    "forbidden"
+  ]
+}
