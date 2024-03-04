@@ -4,5 +4,8 @@ Repo containing scripts and Jupyter notebooks to reproduce the results from my P
 Contents: 
 
 <ul>
-	<li> 1. 
+	<li> Chapter 3: Dataset creation from Common Crawl 
+	<liu> Chapter 5: Website scraping and Tomotopy modeling 
+	<liu> Chapter 6: Website Weakly Supervised Classification
+	<liu> Chapter 7: Inhomogeneous Ripley's K-function 
   </ul>
