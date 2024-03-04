@@ -1,5 +1,5 @@
 # thesis_repo
-Repo containing scripts and Jupyter notebooks to reproduce the results from my PhD thesis, empirical chapter per empirical chapter. 
+Repo containing scripts and Jupyter notebooks to reproduce the experiments in my PhD thesis, empirical chapter per empirical chapter. 
 
 Contents: 
 
