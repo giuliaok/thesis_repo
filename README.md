@@ -5,8 +5,10 @@ Contents:
 
 <ul>
 	<li> <b>Chapter 3 </b>: Dataset creation from Common Crawl 
-		<br>
+
+</liu>
 	<liu> <b>Chapter 5</b>: Website scraping and Tomotopy modeling 
+	</liu>
 		<br>
 	<liu> <b>Chapter 6</b>: Website Weakly Supervised Classification
 		<br>
