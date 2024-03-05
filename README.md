@@ -5,6 +5,15 @@ Contents:
 
 <ul>
 	<li> <b>Chapter 3 </b>: Dataset creation from Common Crawl 
+		<ul>
+		<li>The directory contains 5 files: 
+		<ul>
+			<li> A <code>requirements.txt</code> file
+			<li> <code>columnar_explorer.py</code> collects all columnar files from a monthly Common Crawl data dump
+			<li><code>process_warc_files.py</code> extracts and collects utf-8 text and/or hrefs from each website within a dump
+			<li><code>utils.py</code> and <code>utils_html.py</code> contain utility functions indispensible for the scripts above 
+		</ul>	
+		</ul>
 	<li> <b>Chapter 5</b>: Website scraping and Tomotopy modeling 
 	<li> <b>Chapter 6</b>: Website Weakly Supervised Classification
 		<ul>
