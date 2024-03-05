@@ -16,8 +16,9 @@ Contents:
 		<li>The directory contains 4 files: 
 		<ul>
 			<li> A <code>requirements.txt</code> file
-			<li> <code>simulate_controls.py</code> the scripts runs a thinning algorithm to simulate companies with the same distribution as tangible and intangible ones
-			<li><code>kinhom_estimation_tutorial</code>
+			<li> <code>simulate_controls.py</code> runs a thinning algorithm to simulate companies with the same distribution as tangible and intangible ones
+			<li><code>kinhom_estimation_tutorial.ipynb</code> provides a step by step tutorial of our Python implementation of Ripleys Inhomogeneous K-function based on <a href = "https://github.com/pysal/pointpats">pointpats</a>
+			<li><code>kinhom_calcs.py</code> calculates max and min of the Kinhom function on our simulated companies data
 		</ul>	
 		</ul>
   </ul>
