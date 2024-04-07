@@ -6,7 +6,7 @@ Contents:
 <ul>
 	<li> <b>Chapter 3 </b>: Dataset creation from Common Crawl 
 		<ul>
-		<li>The directory contains 5 files: 
+		<li>The code is made available within the <a href="https://github.com/giuliaok/crawls_nest/tree/main">crawls_nest</a> repository. The repo contains 4 scripts: 
 		<ul>
 			<li> A <code>requirements.txt</code> file
 			<li> <code>columnar_explorer.py</code> collects all columnar files from a monthly Common Crawl data dump
